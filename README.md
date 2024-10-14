@@ -12,8 +12,8 @@ Hej och välkommen!
 
 1. Frågor och repetition
 2. Fortsättning på OOP
-  1. Inheritance
-  2. Polymorphism
+   1. Inheritance
+   2. Polymorphism
 3. Övning med handledning
 4. Projektbygge - todo applikation med OOP
 
@@ -40,3 +40,13 @@ Kan vi gå igenom hur man implementerar singletons igen?
 Absolut.
 
 Om man har en klass med endast en instans (det finns endast en enda 'new') så räknas det som en singleton. Det kan implementeras på olika sätt, som exempelvis genom 'static'.
+
+---
+
+# Fråga
+
+Kommer vi lära oss någonting om Kotlin?
+
+# Svar
+
+Nej tyvärr, men man får gärna kolla upp det på egen hand.
